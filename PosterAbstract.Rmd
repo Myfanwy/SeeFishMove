@@ -1,0 +1,11 @@
+---
+title: "UseR_PosterAbstract2016"
+author: "Myfanwy Johnston"
+date: "March 24, 2016"
+output: html_document
+---
+
+
+## Encounters of the Chinook Kind: visualizing fish movement with R
+
+Biotelemetry (the electronic tagging and tracking of organisms) is notorious for producing large data sets.  Finding ways to visualize these data sets is an ongoing effort in ecology; ideally we want to convey not only summary statistics (movement rates, turning angles, etc), but also insight into animal behavior itself.  The movements of anadromous fish, which are often constrained within the linear boundaries of a river system or delta and only monitored intermittently with acoustics, present a special challenge to effective visualization.  This poster presents recent work addressing this challenge with visualization tools in R, including applications with ggplot2, googleVis, leaflet, and Shiny.  Reproducible examples of all visualization workflows are available in the github repository: 
