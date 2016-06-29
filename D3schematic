@@ -1,0 +1,43 @@
+
+
+split dataset into an array of datasets at each time
+
+list in R
+
+to JSON
+
+comes out, and load it into the html object
+
+use timer to move time (after every thousand miliseconds, run this function)
+
+
+1. Make svg canvas, by hand
+- grab the png file from Google Map and stick into the canvas as a background
+
+Take first element of the list and call .data(D[0], function (d, i))
+start appending a circle for each fish (.append('circle')
+.attr('cx', function (d, i)))
+.attr(color, function(d, i))
+
+have to do an enter for any new guy
+regular selection
+and move them with a transition
+
+Adding paths: as you're looping over in the regular selection, you'll say 'draw me a new line btween the current position and where I want to go through'
+
+timer:
+
+sel = data(new data)
+sel.enter(new datapoints)
+sel.move them (different selection)
+
+
+Radio button for 
+Event handlers - on click, = check'
+change the data to sturgeon or to salmon
+.data()
+.fitler(salmoN)
+.set visibility to off
+
+Filter will always be in the code and when the box is checked it will set a variable that will be on by default, but will filter out different guys on click
+
